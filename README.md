@@ -10,7 +10,7 @@
 - `sudo apt-get update -y`
 - `sudo apt-get install python`
 - `python` (to check if installed)
-- `sudo apt-get install python pip`
+- `sudo apt-get install python-pip`
 - `sudo apt-get install awscli`
 - `aws configure`
 - Insert the following information (ID and key provided in excel):
